@@ -34,7 +34,13 @@ I also work in **music and video annotation**, contributing to AI and data annot
 
 ### 📂 Portfolio
 
-This profile will contain selected examples of my music, audio production, creative projects, and other professional work.
+My music production and arrangement work is available in my dedicated music portfolio.
+
+🎵 **[View My Music Portfolio](https://github.com/richardericfreelance/music-portfolio)**
+
+The portfolio currently includes selected backing-track productions, musical arrangements, and audio production work.
+
+More professional and creative projects will be added over time.
 
 ### 📍 Based in
 
