@@ -1,16 +1,45 @@
-## Hi there 👋
+# Richard Ayodeji Akapo
 
-<!--
-**richardericfreelance/richardericfreelance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Music Producer • Audio Creator • Video & Music Annotation Specialist
 
-Here are some ideas to get you started:
+I'm a music producer and audio creator with experience in music arrangement, backing-track production, MIDI programming, and live-performance preparation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work in **music and video annotation**, contributing to AI and data annotation projects involving audio and visual content.
+
+### 🎵 Music & Audio
+
+- Music production and arrangement
+- Backing-track production for live performance
+- MIDI programming and instrument arrangement
+- Audio editing and production
+- Cubase and FL Studio workflows
+- Music composition and sound design
+
+### 🎬 Video & Annotation
+
+- Video annotation
+- Music/audio annotation
+- AI and data annotation
+- Careful application of project-specific annotation guidelines
+- Quality-focused review of audio and visual content
+
+### 🛠️ Tools & Software
+
+- Cubase
+- FL Studio
+- Kontakt
+- Native Instruments ecosystem
+- Various virtual instruments and audio plugins
+- CapCut
+
+### 📂 Portfolio
+
+This profile will contain selected examples of my music, audio production, creative projects, and other professional work.
+
+### 📍 Based in
+
+Ilorin, Nigeria
+
+---
+
+*More projects and portfolio materials will be added as I continue developing my work.*
